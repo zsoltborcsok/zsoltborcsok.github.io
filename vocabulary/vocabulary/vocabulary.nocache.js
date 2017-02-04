@@ -346,7 +346,7 @@ function vocabulary(){
     }
     var strongName;
     try {
-      strongName = 'FF00FCD3850BF8A74A25E40D5E8DE88E';
+      strongName = 'E168E9477EBAE9D86E92CE78226ADD33';
       var idx = strongName.indexOf(':');
       if (idx != -1) {
         softPermutationId = parseInt(strongName.substring(idx + 1), 10);
